@@ -34,6 +34,7 @@ protected:  // control bar embedded members
 	CMFCMenuBar       m_wndMenuBar;
 	CMFCToolBar       m_wndToolBar;
 	CMFCStatusBar     m_wndStatusBar;
+	CMFCToolBar     mytoolbar;
 	CMFCToolBarImages m_UserImages;
 
 // Generated message map functions

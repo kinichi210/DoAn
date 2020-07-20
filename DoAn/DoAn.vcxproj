@@ -215,6 +215,7 @@
     <Image Include="res\DoAn.ico" />
     <Image Include="res\DoAnDoc.ico" />
     <Image Include="res\Toolbar.bmp" />
+    <Image Include="res\toolbar1.bmp" />
     <Image Include="res\Toolbar256.bmp" />
     <Image Include="res\userimages.bmp" />
   </ItemGroup>
